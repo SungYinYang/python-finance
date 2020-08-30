@@ -1,4 +1,4 @@
-# Python-Finance-Info-Web-App
+# Python Finance Web app
 
 The web application can be accessed at : [Finance Info](https://python-homework2.herokuapp.com)
 
@@ -20,7 +20,7 @@ The web app also handles some error situations such as no network, invalid symbo
 
 Please enter a symbol:
 
-ADBE
+TSLA
 
 #### Output:
 
