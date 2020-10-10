@@ -1,4 +1,4 @@
-# Python Finance Web app
+# Python Stock Finance Web app
 
 The web application can be accessed at : [Finance Info](https://python-homework2.herokuapp.com)
 
