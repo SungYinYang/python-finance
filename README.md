@@ -1,7 +1,5 @@
 # Python Stock Finance Web app
 
-The web application can be accessed at : [Finance Info](https://python-homework2.herokuapp.com)
-
 Used IexFinance API to retrieve financial data.
 
 The web app is written with Python and will take a stock symbol as input and output the following:
